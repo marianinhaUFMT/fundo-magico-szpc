@@ -36,11 +36,9 @@ Como este é um projeto frontend estático (apenas HTML, CSS), não há necessid
 3.  **Abra o arquivo `index.html` no seu navegador de preferência.**
     -   Você pode simplesmente arrastar o arquivo `index.html` para a janela do seu navegador ou dar um duplo clique nele.
 
-E pronto! A página será exibida.
-
 ---
 
-##Autora
+## Autora
 
 **Mariana Sanchez Pedroni**
 
@@ -48,6 +46,6 @@ E pronto! A página será exibida.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto não possui uma licença específica, portanto, está sob direitos autorais padrão.
