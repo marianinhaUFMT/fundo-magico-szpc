@@ -25,7 +25,7 @@ Como este é um projeto frontend estático (apenas HTML, CSS), não há necessid
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/marianinhaUFMT/fundo-magico-szpc.git](https://github.com/marianinhaUFMT/fundo-magico-szpc.git)
+    git clone https://github.com/marianinhaUFMT/fundo-magico-szpc
     ```
 
 2.  **Navegue até a pasta do projeto:**
